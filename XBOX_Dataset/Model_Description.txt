@@ -1,0 +1,5 @@
+You can get the dataset from https://www.kaggle.com/c/acm-sf-chapter-hackathon-small
+
+I have done 2 models : Random Forest Classifier and Decision Tree Classifier.
+The best among these 2 is the random forest classifier giving an accuracy of
+62.08%.
